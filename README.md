@@ -41,7 +41,10 @@ an automated pipeline designed to assist HR systems in processing and analyzing 
 1. Prerequisites
 - Apache Airflow: Install using the official guide.
 - PostgreSQL: Install and configure with a database for the pipeline.
-
+2. Repository Setup
+  Clone the repository:
+  git clone https://github.com/<your-username>/<repository-name>.git
+  cd <repository-name>
   ---
   
 ## Contributing
