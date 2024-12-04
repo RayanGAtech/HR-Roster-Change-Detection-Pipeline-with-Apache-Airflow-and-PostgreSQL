@@ -1,0 +1,2 @@
+implemented an automated data pipeline using Apache NiFi for data ingestion, processing, and transformation, with PostgreSQL as the backend database for storage and deduplication. The pipeline processes CSV files stored in dated folders (yyyyMMdd), ingests their content into a database, and ensures only unique rows are retained in a secondary table.
+The pipeline is designed for scalability and efficiency, making it ideal for real-time and batch data workflows.
